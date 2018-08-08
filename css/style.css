@@ -3,16 +3,16 @@
     margin: 0;
     padding: 0;
 }
-@font-face {
-    font-family: amerika;
-    src:
-}
+
 
 #page {
-    width: 300px;
+    width: 520px;
     margin: 0 auto;
     background-color: white;
     padding: 6px;
+}
+#page img {
+    width: 100%;
 }
 a {
     color: #44A2FF;
@@ -34,8 +34,9 @@ a:visited {
     padding: 6px;
 }
 body{
-    background-image: url("");
+    background-image: url("../img/most-b5c.jpg");
 }
+
 .social {
     margin: 30px 0 30px 0;
     border-top: 1px solid gray;
@@ -45,7 +46,7 @@ body{
 
 h1 {
     margin: 12px 0 12px 0;
-    font-family:amerika;
+    /*font-family:amerika;*/
     text-align: center;
 }
 

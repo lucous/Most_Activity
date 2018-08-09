@@ -21,12 +21,9 @@ a {
 }
 
 a:hover {
-    color: #44A2FF;
+    color: #357fcd;
     text-decoration: none;
 
-}
-a:visited {
-    color: red;
 }
 
 .menu li {
